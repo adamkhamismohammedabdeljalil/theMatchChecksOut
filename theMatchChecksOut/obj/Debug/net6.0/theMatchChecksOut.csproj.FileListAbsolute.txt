@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\bin\Debug\net6.0\theMatchChecksOut.exe
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\bin\Debug\net6.0\theMatchChecksOut.deps.json
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\bin\Debug\net6.0\theMatchChecksOut.runtimeconfig.json
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\bin\Debug\net6.0\theMatchChecksOut.dll
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\bin\Debug\net6.0\theMatchChecksOut.pdb
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.dll
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\refint\theMatchChecksOut.dll
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.pdb
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\theMatchChecksOut.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\theMatchChecksOut\theMatchChecksOut\obj\Debug\net6.0\ref\theMatchChecksOut.dll
